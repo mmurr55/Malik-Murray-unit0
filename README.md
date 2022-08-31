@@ -1,2 +1,2 @@
-# <student shortname>-unit0
+# codepath prework
 Tip Calculator
